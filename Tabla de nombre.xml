@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Tabla%20de%20nombre.xsd" generated="2024-05-23T17:05:02">
+<Tabla_x0020_de_x0020_nombre>
+<Id>1</Id>
+<Futbolista>0</Futbolista>
+<Nombre>Juan</Nombre>
+<Apodo>Cooper</Apodo>
+<Apellido>Ortis</Apellido>
+<_x0032_do_x0020_Apellido>Catro</_x0032_do_x0020_Apellido>
+<N_x0020_de_x0020_Personas>1</N_x0020_de_x0020_Personas>
+<Dinero_x0020_disponible>15550</Dinero_x0020_disponible>
+<fercha>2024-05-23T00:00:00</fercha>
+</Tabla_x0020_de_x0020_nombre>
+<Tabla_x0020_de_x0020_nombre>
+<Id>2</Id>
+<Futbolista>1</Futbolista>
+<Nombre>Neymar</Nombre>
+<Apodo>Ney</Apodo>
+<Apellido>Da silva</Apellido>
+<_x0032_do_x0020_Apellido>Santos</_x0032_do_x0020_Apellido>
+<N_x0020_de_x0020_Personas>2</N_x0020_de_x0020_Personas>
+<Dinero_x0020_disponible>250000</Dinero_x0020_disponible>
+<fercha>2024-05-24T00:00:00</fercha>
+<Webpag>https://www.instagram.com/neymarjr/</Webpag>
+</Tabla_x0020_de_x0020_nombre>
+<Tabla_x0020_de_x0020_nombre>
+<Id>3</Id>
+<Futbolista>1</Futbolista>
+<Nombre>Messi</Nombre>
+<Apodo>Pulga</Apodo>
+<Apellido>Andres</Apellido>
+<_x0032_do_x0020_Apellido>Cuccitini</_x0032_do_x0020_Apellido>
+<N_x0020_de_x0020_Personas>3</N_x0020_de_x0020_Personas>
+<Dinero_x0020_disponible>1500</Dinero_x0020_disponible>
+<fercha>2024-05-23T00:00:00</fercha>
+<Webpag>https://www.instagram.com/leomessi/</Webpag>
+</Tabla_x0020_de_x0020_nombre>
+<Tabla_x0020_de_x0020_nombre>
+<Id>4</Id>
+<Futbolista>1</Futbolista>
+<Nombre>Cristiano</Nombre>
+<Apodo>El bicho</Apodo>
+<Apellido>Dos santos</Apellido>
+<_x0032_do_x0020_Apellido>Aveiro</_x0032_do_x0020_Apellido>
+<N_x0020_de_x0020_Personas>4</N_x0020_de_x0020_Personas>
+<Dinero_x0020_disponible>15</Dinero_x0020_disponible>
+<fercha>2024-05-23T00:00:00</fercha>
+<Webpag>#https://www.instagram.com/cristiano/#</Webpag>
+</Tabla_x0020_de_x0020_nombre>
+<Tabla_x0020_de_x0020_nombre>
+<Id>5</Id>
+<Futbolista>0</Futbolista>
+<Nombre>Brenda</Nombre>
+<Apodo>Bren</Apodo>
+<Apellido>Sosa</Apellido>
+<_x0032_do_x0020_Apellido>Ramos</_x0032_do_x0020_Apellido>
+<N_x0020_de_x0020_Personas>5</N_x0020_de_x0020_Personas>
+<Dinero_x0020_disponible>100</Dinero_x0020_disponible>
+<fercha>2024-05-23T00:00:00</fercha>
+</Tabla_x0020_de_x0020_nombre>
+</dataroot>
